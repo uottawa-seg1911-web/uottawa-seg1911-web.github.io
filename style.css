@@ -1,0 +1,43 @@
+/*
+
+Colors
+
+#583E7F
+#DEC9FF
+#B07CFF
+#6F647F
+#8D63CC
+*/
+
+body {
+  margin:0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.clear-floats {
+  clear:both;
+}
+
+/* HEADER *****************************/
+.header {
+  background:#583E7F;
+}
+
+.header .logo {
+  float:left;
+  width:20%;
+}
+
+.header .navigation {
+  float:right;
+  width:80%;
+  text-align:right;
+}
+
+.header a {
+  color:white;
+  display:inline-block;
+  padding:20px 10px;
+  margin:0 10px;
+  text-decoration:none;
+}

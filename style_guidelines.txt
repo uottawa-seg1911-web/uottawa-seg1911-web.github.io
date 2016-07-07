@@ -1,0 +1,33 @@
+Overall Look and Feel of Roomie
+===============================
+
+The overall look and feel should be minimalist and flat. We will avoid 3d buttons and 3d metal looks.
+The website should be calm and gentle for the user.
+
+Colours
+========
+For Roomie, colours expose our personality to the customers and represent that we are calm and pleasing.
+These are our color swatches:
+
+- #583E7F
+- #DEC9FF
+- #B07CFF
+- #6F647F
+- #8D63CC
+
+Iconography
+===========
+We will focus on using icons that have a 'flat' design, which adheres to the overall look and feel.
+When selecting an icon, please select the correct icon for the job and keep the following in mind:
+
+Typography
+==========
+We will be using Roboto from Google Fonts.
+
+Links
+=====
+Links will not be underlined and should change color when a user hovers over it.
+
+Buttons
+=======
+Buttons will be flat designed using the chosen colors outlined above.

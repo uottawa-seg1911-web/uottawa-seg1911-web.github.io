@@ -28,6 +28,10 @@ body {
   width:20%;
 }
 
+.header .logo img {
+  height:20px;
+}
+
 .header .navigation {
   float:right;
   width:80%;

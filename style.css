@@ -132,5 +132,66 @@ a.button:hover {
 }
 
 /* PRICING PAGE **************************/
+#pricing-page .student-pricing {
+  text-align:center;
+  margin:20px 0;
+  color:#666;
+}
+
+#pricing-page .student-pricing .title {
+  font-size:4em;
+}
+
+#pricing-page .student-pricing .subtitle {
+  font-size:2em;
+}
+
+#pricing-page .school-pricing {
+  margin:20px 0;
+  text-align:center;
+  color:#666;
+}
+
+#pricing-page .school-pricing .title {
+  font-size:1em;
+}
+
+#pricing-page .school-pricing table {
+  margin:10px auto;
+  text-align:center;
+  border-collapse:collapse;
+}
+
+#pricing-page .school-pricing table tr td {
+  width:200px;
+}
+
+#pricing-page .school-pricing table tr:nth-child(even) td {
+  background:#ddd;
+}
+
+#pricing-page .school-pricing table tr:nth-child(odd) td {
+  background:#eee;
+}
+
+#pricing-page .school-pricing table tr.header td {
+  background:#6F647F;
+  color:white;
+  font-size:3em;
+}
+
+#pricing-page .school-pricing table tr.header td .price-caption {
+  font-size:0.25em;
+}
+
+#pricing-page .school-pricing table tr td {
+  padding:10px;
+}
+
+#pricing-page .button-container {
+  text-align:right;
+  margin-top:20px;
+  margin-right:20px;
+}
 
 /* TEAM PAGE **************************/

@@ -18,6 +18,13 @@ body {
   clear:both;
 }
 
+.container {
+  max-width:960px;
+  width:calc(100% - 20px);
+  padding:0 10px;
+  margin:0 auto;
+}
+
 /* HEADER *****************************/
 .header {
   background:#583E7F;
@@ -223,8 +230,8 @@ a.button:hover {
 }
 
 #team .team-member .photo img {
-  height: 200px;
-  width: 200px;
+  height: 150px;
+  width: 150px;
   border-radius: 50%;
 }
 

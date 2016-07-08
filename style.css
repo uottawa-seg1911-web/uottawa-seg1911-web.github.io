@@ -195,3 +195,36 @@ a.button:hover {
 }
 
 /* TEAM PAGE **************************/
+#team .team-member {
+  padding: 10px;
+}
+
+#team .team-member a {
+  /*color: #DEC9FF;*/
+  color: #B07CFF;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#team .team-member a:hover {
+  /*color: #DEC9FF;*/
+  color: #B07CFF;
+  font-weight: bold;
+  text-decoration: underline;;
+}
+
+#team .team-member .photo {
+  float: left;
+  width: 20%;
+}
+
+#team .team-member .photo img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+#team .team-member .writeup {
+  float: right;
+  width: 80%;
+}

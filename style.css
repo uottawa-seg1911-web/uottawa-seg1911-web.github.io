@@ -42,7 +42,66 @@ body {
   text-decoration:none;
 }
 
+/* COMMON ELEMENTS ********************/
+a.button {
+  display:inline-block;
+  background:#72687F;
+  padding:10px 20px;
+  border-radius:5px;
+  text-decoration:none;
+  color:white;
+}
+
+a.button:hover {
+  background:#8D63CC;
+}
+
 /* HOME PAGE **************************/
+
+#home-page .content {
+  position:relative;
+}
+
+#home-page .hero-image {
+  max-width:100%;
+  position:absolute;
+  top:0;
+  left:0;
+}
+
+#home-page .logo-container {
+  position:absolute;
+  height:200px;
+  top:50px;
+  text-align:center;
+  width:100%;
+}
+
+#home-page .logo-container img.logo {
+  height:100%;
+}
+
+#home-page h1 {
+  position:absolute;
+  top:240px;
+  left:0;
+  width:100%;
+  color:white;
+  font-weight:100;
+  text-align:center;
+  font-size:2em;
+}
+
+#home-page .button-container {
+  position:absolute;
+  text-align:center;
+  top:320px;
+  width:100%;
+}
+
+#home-page h1 .emphasized {
+  font-weight:normal;
+}
 
 /* FEATURES PAGE **************************/
 

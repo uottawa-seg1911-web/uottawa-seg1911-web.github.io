@@ -105,6 +105,32 @@ a.button:hover {
 
 /* FEATURES PAGE **************************/
 
+#features-page .content .feature {
+  float:left;
+  width:calc(33.333333% - 80px);
+  text-align:center;
+  padding:0 40px;
+  color:#666;
+  line-height:2em;
+}
+
+#features-page .content .feature .icon img {
+  height:150px;
+  margin:20px 0;
+}
+
+#features-page .content .feature .title {
+  font-weight:bold;
+  margin:10px 0;
+  font-size:1.5em;
+}
+
+#features-page .button-container {
+  text-align:right;
+  margin-top:20px;
+  margin-right:20px;
+}
+
 /* PRICING PAGE **************************/
 
 /* TEAM PAGE **************************/
